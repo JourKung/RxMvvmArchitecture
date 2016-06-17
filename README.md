@@ -62,12 +62,8 @@ Unit Test
 
 # Reference
 
-http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/
-
-https://github.com/ReactiveX/RxSwift
-
-https://github.com/tailec/boilerplate
-
-https://github.com/DroidsOnRoids/RxSwiftExamples
-
-https://github.com/ivanbruel/Reddit-MVVM-Benchmark
+- http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/
+- https://github.com/ReactiveX/RxSwift
+- https://github.com/tailec/boilerplate
+- https://github.com/DroidsOnRoids/RxSwiftExamples
+- https://github.com/ivanbruel/Reddit-MVVM-Benchmark
