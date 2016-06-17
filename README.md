@@ -8,9 +8,9 @@
 [netguru version](https://github.com/netguru/swift-style-guide)
 
 # MVVM
-![MVVM](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MVVMPattern.png/660px-MVVMPattern.png)
+![MVVM](http://cases.azoft.com/images/2015/12/pattern-mvvm-scheme.png)
 
-![MVVM](http://www.sprynthesis.com/assets/images/MVMCV.svg)
+![MVVM](http://www.sprynthesis.com/assets/images/MCVMVMV.gif)
 
 # Project Structure
 
