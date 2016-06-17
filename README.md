@@ -41,9 +41,9 @@ SampleApp
 - [Moya](https://github.com/Moya/Moya): Network abstraction layer written in Swift.
 - [Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight and pure Swift implemented library for downloading and caching image from the web.
 - [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper): Simple JSON Object mapping written in Swift
-- [Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper): ObjectMapper bindings for Moya and RxSwift
-- [Moya-ModelMapper](https://github.com/sunshinejr/Moya-ModelMapper): bindings for Moya for easier JSON serialization with RxSwift and ReactiveCocoa bindings
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON): SwiftyJSON makes it easy to deal with JSON data in Swift.
+- [Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper):(optional) ObjectMapper bindings for Moya and RxSwift
+- [Moya-ModelMapper](https://github.com/sunshinejr/Moya-ModelMapper):(optional) bindings for Moya for easier JSON serialization with RxSwift and ReactiveCocoa bindings
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON):(optional) SwiftyJSON makes it easy to deal with JSON data in Swift.
 - [RxSwift](https://github.com/ReactiveX/RxSwift): Reactive Programming in Swift
 - [RxCocoa](https://github.com/ReactiveX/RxSwift/tree/master/RxCocoa/iOS): A bundle with common-usage iOS reactive extensions.
 - [NSObject+Rx](https://github.com/RxSwiftCommunity/NSObject-Rx): Handy RxSwift extensions on NSObject, including rx_disposeBag.
