@@ -63,6 +63,11 @@ Unit Test
 - [RxTests](https://github.com/ReactiveX/RxSwift/tree/master/RxTests): 
 
 
+# Xcode Plugin
+
+- [XAlign] (https://peterwitham.com/xcode/xcode-plugin-xalign/)
+- [Swimat] (https://github.com/Jintin/Swimat)
+
 # Reference
 
 - http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/
