@@ -8,6 +8,14 @@
 [netguru version](https://github.com/netguru/swift-style-guide)
 
 # MVVM
+The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+* __View (UI layer)__: This is where view, viewController, and other control components, also handles user interactions and inputs. The View is rather synchronized with the viewmodel, active and contains behaviors, events and data binding information.
+
+* __ViewModel__: 
+* __Model (Data Layer)__:
+
+
 ![MVVM](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MVVMPattern.png/660px-MVVMPattern.png)
 
 ![MVVM](http://cases.azoft.com/images/2015/12/pattern-mvvm-scheme.png)
