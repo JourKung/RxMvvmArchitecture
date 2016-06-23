@@ -10,10 +10,11 @@
 # MVVM
 The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
-* __View (UI layer)__: This is where view, viewController, and other control components, also handles user interactions and inputs. The View is rather synchronized with the viewmodel, active and contains behaviors, events and data binding information.
+* __View (UI layer)__: This is where view, viewController, and other native components, also handles user interactions and inputs. The View is rather synchronized with the viewmodel, active and contains behaviors, events and data binding information.
 
-* __ViewModel__: 
-* __Model (Data Layer)__:
+* __ViewModel__: The viewmodel in MVVM is responsible for presentation separation and exposes methods and commands to manage the state of a view and manipulate the model.
+
+* __Model (Data Layer)__:this is responsible for retrieving, saving, caching and massaging data. It can communicate with local databases and other data stores as well as with restful APIs or third party SDKs.
 
 
 ![MVVM](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/MVVMPattern.png/660px-MVVMPattern.png)
