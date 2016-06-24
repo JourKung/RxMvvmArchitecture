@@ -7,6 +7,8 @@
 
 [netguru version](https://github.com/netguru/swift-style-guide)
 
+[Linkin version](https://github.com/linkedin/swift-style-guide)
+
 # MVVM
 The architecture of our ios apps is based on the [MVVM] (https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
