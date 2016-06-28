@@ -1,4 +1,4 @@
-# Rxswift MVVM Architecture
+# iOS MVVM Architecture
 
 # Swfit code style
 [github version](https://github.com/github/swift-style-guide)
