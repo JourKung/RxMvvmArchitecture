@@ -87,3 +87,4 @@ Unit Test
 - https://github.com/DroidsOnRoids/RxSwiftExamples
 - https://github.com/ivanbruel/Reddit-MVVM-Benchmark
 - https://github.com/tryswift/RxPagination
+- [Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/play/wwdc2014/229/)
