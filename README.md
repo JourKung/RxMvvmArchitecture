@@ -65,6 +65,8 @@ SampleApp
 - [Result](https://github.com/antitypical/Result): This is a Swift µframework providing Result<Value, Error>.
 - [Device](https://github.com/Ekhoo/Device): Device detect the current  device model and screen size.
 - [Cell-Rx](https://github.com/ivanbruel/Cell-Rx): Cell+Rx provides a similar API to NSObject+Rx but for cells who are reused along the way.
+- [LayoutKit](https://github.com/linkedin/LayoutKit): LayoutKit is a fast view layout library for iOS. http://layoutkit.org
+
 
 Unit Test
 
